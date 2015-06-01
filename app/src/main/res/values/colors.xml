@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="green" type="color">#FF3BBD79</item>
+    <color name="font_black_content">#222222</color>
+    <color name="stand_bg">#fff6f6f6</color>
+    <color name="divide">#ffe4e4e4</color>
+    <color name="white_pressed">#ffd5d5d5</color>
+    <color name="font_black_6">#ff666666</color>
+    <color name="white">#ffffffff</color>
+    <color name="font_gray">#999999</color>
+</resources>
